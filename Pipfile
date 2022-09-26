@@ -5,9 +5,11 @@ name = "pypi"
 
 [packages]
 pandas = "*"
-requests = "*"
+toolz = "*"
+typing-extensions = "*"
+icecream = "*"
+isort = "*"
 black = "*"
-ipython = "*"
 
 [dev-packages]
 
